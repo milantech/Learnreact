@@ -99,7 +99,7 @@ function App() {
   const peoplelist = people.filter((el) => el.profession === "mathematician");
 
   const plist = peoplelist.map((el) => (
-    <li>
+    <li key={el}>
       {el.name}|{el.profession}
     </li>
   ));
