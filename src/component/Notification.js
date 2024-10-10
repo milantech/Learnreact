@@ -3,13 +3,13 @@ class Notification extends Component {
     constructor(){
         super()
         this.state = {
-            data:"hari"
+            data:0
         }
 
         
     }
     clickBtn(){
-        this.setState({data:"OM"})
+        this.setState({data:this.state.data+1})
     }
     render(){
         return( <div> {this.state.data}<br/>

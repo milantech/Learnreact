@@ -14,7 +14,7 @@ function Greet(){
         <h1> hello {data}</h1>
         <br/>
         <button onClick={btnClick}>New btn with use state click</button>
-        <button onClick={()=>btnClick()}>btn click</button>
+        <button onClick={()=>btnClick()}>useState only with functions not with Class</button>
         </div>
     )
 }
