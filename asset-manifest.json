@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/milantech/Learnreact/static/css/main.7534bec1.css",
-    "main.js": "/milantech/Learnreact/static/js/main.8f3d7102.js",
-    "static/js/453.86b2f617.chunk.js": "/milantech/Learnreact/static/js/453.86b2f617.chunk.js",
-    "index.html": "/milantech/Learnreact/index.html",
-    "main.7534bec1.css.map": "/milantech/Learnreact/static/css/main.7534bec1.css.map",
-    "main.8f3d7102.js.map": "/milantech/Learnreact/static/js/main.8f3d7102.js.map",
-    "453.86b2f617.chunk.js.map": "/milantech/Learnreact/static/js/453.86b2f617.chunk.js.map"
+    "main.css": "/Learnreact/static/css/main.7534bec1.css",
+    "main.js": "/Learnreact/static/js/main.0256bd32.js",
+    "static/js/453.86b2f617.chunk.js": "/Learnreact/static/js/453.86b2f617.chunk.js",
+    "index.html": "/Learnreact/index.html",
+    "main.7534bec1.css.map": "/Learnreact/static/css/main.7534bec1.css.map",
+    "main.0256bd32.js.map": "/Learnreact/static/js/main.0256bd32.js.map",
+    "453.86b2f617.chunk.js.map": "/Learnreact/static/js/453.86b2f617.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7534bec1.css",
-    "static/js/main.8f3d7102.js"
+    "static/js/main.0256bd32.js"
   ]
 }
